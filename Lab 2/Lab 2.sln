@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 2", "Lab 2\Lab 2.csproj", "{D690BA5E-330E-4EA0-8810-48649A565F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tsetATM", "tsetATM\tsetATM.csproj", "{4E078C2C-9618-4D86-B002-AFA789104160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D690BA5E-330E-4EA0-8810-48649A565F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D690BA5E-330E-4EA0-8810-48649A565F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D690BA5E-330E-4EA0-8810-48649A565F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D690BA5E-330E-4EA0-8810-48649A565F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E078C2C-9618-4D86-B002-AFA789104160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E078C2C-9618-4D86-B002-AFA789104160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E078C2C-9618-4D86-B002-AFA789104160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E078C2C-9618-4D86-B002-AFA789104160}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55ACCA0F-737F-483C-B11B-1603A30AF788}
+	EndGlobalSection
+EndGlobal

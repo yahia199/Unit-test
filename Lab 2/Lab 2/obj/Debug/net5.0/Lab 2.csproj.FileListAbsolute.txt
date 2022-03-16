@@ -1,0 +1,16 @@
+C:\Users\D-C\unit test\Lab 2\Lab 2\bin\Debug\net5.0\Lab 2.exe
+C:\Users\D-C\unit test\Lab 2\Lab 2\bin\Debug\net5.0\Lab 2.deps.json
+C:\Users\D-C\unit test\Lab 2\Lab 2\bin\Debug\net5.0\Lab 2.runtimeconfig.json
+C:\Users\D-C\unit test\Lab 2\Lab 2\bin\Debug\net5.0\Lab 2.runtimeconfig.dev.json
+C:\Users\D-C\unit test\Lab 2\Lab 2\bin\Debug\net5.0\Lab 2.dll
+C:\Users\D-C\unit test\Lab 2\Lab 2\bin\Debug\net5.0\ref\Lab 2.dll
+C:\Users\D-C\unit test\Lab 2\Lab 2\bin\Debug\net5.0\Lab 2.pdb
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.csproj.AssemblyReference.cache
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.AssemblyInfoInputs.cache
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.AssemblyInfo.cs
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.csproj.CoreCompileInputs.cache
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.dll
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\ref\Lab 2.dll
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.pdb
+C:\Users\D-C\unit test\Lab 2\Lab 2\obj\Debug\net5.0\Lab 2.genruntimeconfig.cache
